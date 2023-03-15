@@ -19,7 +19,7 @@ npx hardhat compile
 NOTE:-
 ```shell
 Contract is already deployed in Polygon Testnet @0x5C2a4fdC862609e0ba57F7a7FeA4632132299CF6
-Test Private key is also configured with Matic balance in the env for ease of testing
+Test Private key is also configured in env with some Matic balance for ease of testing
 You just need to run tests!
 
 ```
