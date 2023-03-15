@@ -1,0 +1,25 @@
+14/03/2023 12:34:23
+\r
+$ /Users/sarthakjoshi/satoshi-u-ws/whitelist-merkle/node_modules/.bin/hardhat deploy-test-token --network mumbai
+
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+\r
+-------------------------------------
+14/03/2023 12:36:50
+\r
+$ /Users/sarthakjoshi/satoshi-u-ws/whitelist-merkle/node_modules/.bin/hardhat deploy-test-token --network mumbai
+deployed a new upgradable TestToken contract, proxy @ 0xBd580268b5Eb0C083510713b7FEB23AEAff09C0b
+\r
+-------------------------------------
+14/03/2023 12:45:42
+\r
+$ /Users/sarthakjoshi/satoshi-u-ws/whitelist-merkle/node_modules/.bin/hardhat deploy-test-token --network mumbai
+deployed a new upgradable TestToken contract, proxy @ 0xFd5D043f2753Db1DF958F88007315BD29d52b4c4
+\r
+-------------------------------------
+14/03/2023 13:07:59
+\r
+$ /Users/sarthakjoshi/satoshi-u-ws/whitelist-merkle/node_modules/.bin/hardhat deploy-test-token --network mumbai
+deployed a new upgradable TestToken contract, proxy @ 0x626C941B205f13CC79FdAb82e423Ed51c8961357
+\r
+-------------------------------------
